@@ -7,3 +7,12 @@ https://github.com/Aniketpagare1/AI
 https://github.com/ccch4os/AI
 
 https://github.com/NiranjanLangade/AI_lab
+
+
+```bash
+cd C:\Users\shrey\Downloads
+copy AI-Lab-main.zip
+copy AI-main.zip
+copy AI-main (1).zip
+copy AI_lab-main (1).zip
+```
